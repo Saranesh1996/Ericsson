@@ -23,4 +23,10 @@ private void employeeFa() {
 	// TODO Auto-generated method stub
 System.out.println("employee family");
 }
+
+private void employeeSalary() {
+	// TODO Auto-generated method stub
+System.out.println("employeeSalary");
+}
+
 }
