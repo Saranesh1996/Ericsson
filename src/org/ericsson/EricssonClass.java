@@ -15,4 +15,12 @@ private void empolyeeAddress() {
 	// TODO Auto-generated method stub
 System.out.println("employee address");
 }
+private void empolyeeNo() {
+	// TODO Auto-generated method stub
+System.out.println("employee number");
+}
+private void employeeFa() {
+	// TODO Auto-generated method stub
+System.out.println("employee family");
+}
 }
